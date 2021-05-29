@@ -1,4 +1,4 @@
 ---
-title: "TU TÍTULO"
-date: AAAA-MM-DD
+title: "Blog re piola"
+date: 2021-05-28
 ---
